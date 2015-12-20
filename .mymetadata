@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="payu-java-demo"
+  id="myeclipse.1450584831550"
+  context-root="/payu-java-demo"
+  j2ee-spec="5.0"
+  archive="payu-java-demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
